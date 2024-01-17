@@ -1,0 +1,2131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{699A5F11-A2AD-4B51-A7D0-141CA4037493}" SchemaVersion="119">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{699A5F11-A2AD-4B51-A7D0-141CA4037493}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Audio" ID="{31996F14-A8AC-41D6-96EE-B6CC5857B4CD}" ShortID="467833954">
+					<ChildrenList>
+						<Folder Name="SFX_ALIEN_GUNS" ID="{16EA3D49-5546-483F-A0B4-20D149ECE59C}" ShortID="708499172">
+							<ChildrenList>
+								<Sound Name="SFX_ALIEN_GUNS_1" ID="{A6A338EE-62CE-4259-A76C-11110C07BA96}" ShortID="791091126">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_1" ID="{B42BFE72-FB1B-4BFA-A3BE-2B5F31ED566C}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="33414146"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_1" ID="{B42BFE72-FB1B-4BFA-A3BE-2B5F31ED566C}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_10" ID="{C865AF98-982B-4460-AF4A-D4600459983A}" ShortID="510774609">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_10" ID="{3144CE9C-E980-445D-85B5-3BC8844C566B}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_10.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="776945337"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_10" ID="{3144CE9C-E980-445D-85B5-3BC8844C566B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_11" ID="{33004B89-6A52-40CF-88B0-1B0054F80ACC}" ShortID="848176452">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_11" ID="{36B90A06-7E2D-4C1D-9746-5C17AE99B2C7}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_11.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="324438789"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_11" ID="{36B90A06-7E2D-4C1D-9746-5C17AE99B2C7}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_12" ID="{9A840EBD-EC69-462E-93C7-829EE9312CD4}" ShortID="605567445">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_12" ID="{2F53857C-6301-47CA-B73A-BBBBA0DBDE6B}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_12.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="817495026"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_12" ID="{2F53857C-6301-47CA-B73A-BBBBA0DBDE6B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_13" ID="{016794E7-E41E-4BE5-8B91-F209E346FA24}" ShortID="993110322">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_13" ID="{5460F3F3-90A6-4CF5-85DB-496816484631}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_13.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="688824397"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_13" ID="{5460F3F3-90A6-4CF5-85DB-496816484631}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_14" ID="{9C040629-31FF-4D87-90DE-D6F73E5DC208}" ShortID="485311911">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_14" ID="{97D82260-642E-447D-9157-77357F15C581}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_14.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1057658706"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_14" ID="{97D82260-642E-447D-9157-77357F15C581}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_15" ID="{9818221C-FE02-4196-99EF-75E913BE3C6A}" ShortID="807024421">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_15" ID="{7C8755E1-59C8-40CE-B1CE-C743ADD9831B}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_15.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="242159640"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_15" ID="{7C8755E1-59C8-40CE-B1CE-C743ADD9831B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_16" ID="{4DB80C61-F8BF-43CB-8429-07FAC421A105}" ShortID="686167780">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_16" ID="{0114C7B2-8429-4753-89DC-504FEE557A9D}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_16.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="760531262"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_16" ID="{0114C7B2-8429-4753-89DC-504FEE557A9D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_17" ID="{B6DAF74C-5C0A-4D17-921F-CCD8B6245838}" ShortID="609720137">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_17" ID="{9E59F496-5DE4-4E77-945C-1B1A2BE0D81A}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_17.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="808892090"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_17" ID="{9E59F496-5DE4-4E77-945C-1B1A2BE0D81A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_18" ID="{2C831FD2-2071-47E5-AFD7-5707E3437393}" ShortID="219650383">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_18" ID="{AFD0E31C-B018-49FA-9CEB-11AAA6E2EE27}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_18.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="784395186"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_18" ID="{AFD0E31C-B018-49FA-9CEB-11AAA6E2EE27}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_19" ID="{867CDE7D-A332-4A65-B4C3-87D9B05F1898}" ShortID="630540159">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_19" ID="{69ECCF10-024B-4872-B95D-5A49215B93C4}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="399876330"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_19" ID="{69ECCF10-024B-4872-B95D-5A49215B93C4}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_2" ID="{D50EA7FF-F0C7-465F-9986-1ACE1A61057E}" ShortID="64767204">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_2" ID="{04094122-FEE5-435C-9633-29794C4E9EEF}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="2690059"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_2" ID="{04094122-FEE5-435C-9633-29794C4E9EEF}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_20" ID="{70026FFA-FBA7-4A69-ABA4-9334D36A7DEA}" ShortID="100033647">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_20" ID="{14E92157-9D87-48FA-A9DA-ADFB0B15BED0}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_20.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="870544656"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_20" ID="{14E92157-9D87-48FA-A9DA-ADFB0B15BED0}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_3" ID="{FA32B5C1-55B0-48A1-84BB-9F35E5377BC3}" ShortID="583736229">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_3" ID="{5B729B2E-A825-4354-BE5D-3C1A7F9341D9}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1061505215"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_3" ID="{5B729B2E-A825-4354-BE5D-3C1A7F9341D9}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_4" ID="{A343EC19-F3C5-4D2E-86C4-5B6255B7861A}" ShortID="78484614">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_4" ID="{BE4E3057-080F-42F3-AD98-A11B52648F1A}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_4.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="871269730"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_4" ID="{BE4E3057-080F-42F3-AD98-A11B52648F1A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_5" ID="{36685F37-A378-44AF-9721-B6A48B9D6D83}" ShortID="707136201">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_5" ID="{23ACC463-4058-454B-8F32-5ABE77B2989F}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_5.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="494300647"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_5" ID="{23ACC463-4058-454B-8F32-5ABE77B2989F}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_6" ID="{D63CDE90-3A91-4CAB-834E-E58EA8E44990}" ShortID="863208815">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_6" ID="{650BB7EB-EE3A-42D9-94F5-706246CE1DDF}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_6.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="131729577"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_6" ID="{650BB7EB-EE3A-42D9-94F5-706246CE1DDF}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_7" ID="{95AF0B10-AC40-4BC8-83DF-C3BD95A6F28F}" ShortID="51210419">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_7" ID="{ED65CD61-AB0D-4A11-B19A-D609CB19AA6C}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_7.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="936904337"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_7" ID="{ED65CD61-AB0D-4A11-B19A-D609CB19AA6C}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_8" ID="{0482423E-B918-412B-9715-C7B4458F74FE}" ShortID="491226793">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_8" ID="{5A4838A9-EE1A-4A1F-8F9D-5CF53EBA6553}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_8.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="643600600"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_8" ID="{5A4838A9-EE1A-4A1F-8F9D-5CF53EBA6553}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_ALIEN_GUNS_9" ID="{6F0E8D30-F0E7-4487-A123-88093EAA699B}" ShortID="72733966">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_ALIEN_GUNS_9" ID="{50F4E88E-9151-4404-AE8D-8785206FFA3A}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_ALIEN_GUNS\SFX_ALIEN_GUNS_9.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="705046109"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_ALIEN_GUNS_9" ID="{50F4E88E-9151-4404-AE8D-8785206FFA3A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="SFX_GLITCH" ID="{5BE39955-CC94-47DE-867B-DDCD87F40C8A}" ShortID="808163932">
+							<ChildrenList>
+								<Sound Name="SFX_GLITCH_1" ID="{A5CE6A4F-9360-4FBE-8BBA-C70F344BF2E1}" ShortID="654498298">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_1" ID="{B4D83C31-6784-4EE5-AC05-A4206D52498A}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="425626073"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_1" ID="{B4D83C31-6784-4EE5-AC05-A4206D52498A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_10" ID="{370F3DC2-B4D8-4DD5-A739-12FD359AA116}" ShortID="465016927">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_10" ID="{3A9A22B7-6D6D-4204-AD9E-201D7B0F0FB3}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_10.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1010551266"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_10" ID="{3A9A22B7-6D6D-4204-AD9E-201D7B0F0FB3}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_11" ID="{10372A99-7364-4445-9026-085A6D3B5212}" ShortID="37433171">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_11" ID="{3CD81EA6-C7FE-4F85-A72C-CE94A75B2746}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_11.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="701618395"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_11" ID="{3CD81EA6-C7FE-4F85-A72C-CE94A75B2746}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_12" ID="{C7C73B77-4C56-4488-BFEC-46B8B62C766A}" ShortID="107244281">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_12" ID="{80DDE44D-485C-4372-96FF-18A508154BC5}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_12.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="14464775"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_12" ID="{80DDE44D-485C-4372-96FF-18A508154BC5}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_13" ID="{29D744B1-24CA-4DCC-A500-D564CAEFC68E}" ShortID="160434771">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_13" ID="{36312148-565C-49DE-8641-87EDDECD2324}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_13.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="292562276"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_13" ID="{36312148-565C-49DE-8641-87EDDECD2324}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_14" ID="{1736119F-4768-4FDD-A595-2868A2369784}" ShortID="12525856">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_14" ID="{B8978089-4913-434A-ADFD-2E396C01DB79}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_14.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="435028153"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_14" ID="{B8978089-4913-434A-ADFD-2E396C01DB79}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_15" ID="{2DF5EF8B-A33D-4D7F-B064-E4C3D02A03AE}" ShortID="1005588413">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_15" ID="{C084BBF2-81D3-4E27-A85E-2B9397AD2BCD}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_15.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="710590914"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_15" ID="{C084BBF2-81D3-4E27-A85E-2B9397AD2BCD}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_16" ID="{168B8A71-D417-4495-A84A-D8E008EF11D1}" ShortID="315527850">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_16" ID="{11172470-17E1-4A50-8086-EF20B4FF9432}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_16.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="541817410"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_16" ID="{11172470-17E1-4A50-8086-EF20B4FF9432}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_17" ID="{96066E92-5A75-4AFE-861C-7B2E20433880}" ShortID="508892821">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_17" ID="{414EBD95-A1D9-41CC-8DC4-13703CAB4A36}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_17.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="726607292"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_17" ID="{414EBD95-A1D9-41CC-8DC4-13703CAB4A36}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_18" ID="{F86BE80D-57C1-4C63-B517-2CE7F77DB375}" ShortID="502757671">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_18" ID="{1503448F-315E-4A8C-8CF8-B54664AAA137}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_18.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1069393586"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_18" ID="{1503448F-315E-4A8C-8CF8-B54664AAA137}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_19" ID="{F4D78591-FA48-43FC-9157-D9F989A469AA}" ShortID="5084997">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_19" ID="{1FAF12C3-B549-4469-BEB6-68A1F475C8D4}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="549786811"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_19" ID="{1FAF12C3-B549-4469-BEB6-68A1F475C8D4}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_2" ID="{4B8EECB5-4546-4CC6-9B17-2CC8F214D7E8}" ShortID="367733147">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_2" ID="{DCEEECD2-F750-470D-B913-2685D499C63D}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="247280442"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_2" ID="{DCEEECD2-F750-470D-B913-2685D499C63D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_20" ID="{FEDBCDF9-B5BF-4A32-A6B9-EAA3723E7869}" ShortID="582042048">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_20" ID="{B55BFC5C-58E4-4ADD-B002-C15F163312F2}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_20.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="111927878"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_20" ID="{B55BFC5C-58E4-4ADD-B002-C15F163312F2}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_21" ID="{4105965D-F5A8-4568-BA16-CE9EC124A326}" ShortID="422837590">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_21" ID="{98C5A50D-8B86-4868-9515-AC690FC42805}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_21.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="898662334"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_21" ID="{98C5A50D-8B86-4868-9515-AC690FC42805}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_22" ID="{73C84E62-5014-4418-84E2-EE6CE7414372}" ShortID="691864695">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_22" ID="{8A0361D8-2D53-4E33-B50E-3976C74A6B91}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_22.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="57473356"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_22" ID="{8A0361D8-2D53-4E33-B50E-3976C74A6B91}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_23" ID="{BBA1E12B-7260-404D-A1F8-B93B58512E00}" ShortID="899741182">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_23" ID="{DCCEC686-067C-4B4C-B68F-2CD24D9456BA}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_23.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="942918678"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_23" ID="{DCCEC686-067C-4B4C-B68F-2CD24D9456BA}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_24" ID="{CD77A577-4663-42D0-AE09-A8D11A714295}" ShortID="1041983880">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_24" ID="{4430473B-9FBA-459E-BD0C-6103BCD88F28}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_24.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="746140352"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_24" ID="{4430473B-9FBA-459E-BD0C-6103BCD88F28}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_25" ID="{AC2B43C9-3E41-459E-B6DE-E8DB1AF319B0}" ShortID="787744772">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_25" ID="{61B24127-36FA-47B6-9D69-7242D50F3EEF}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_25.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="207885645"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_25" ID="{61B24127-36FA-47B6-9D69-7242D50F3EEF}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_26" ID="{EE9DD5FE-C6E6-4D2F-9D14-7F73DD5A7AF2}" ShortID="413908017">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_26" ID="{21A5602C-6625-405C-B106-997D3148CD5B}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_26.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1001601645"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_26" ID="{21A5602C-6625-405C-B106-997D3148CD5B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_27" ID="{D3A1DA99-4F89-4520-830A-B2E191784330}" ShortID="404703606">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_27" ID="{C15B7537-A71B-429E-9D07-C560C0C90C04}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_27.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1038109712"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_27" ID="{C15B7537-A71B-429E-9D07-C560C0C90C04}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_28" ID="{4480E631-5E96-4485-8F0F-DA6A2C411203}" ShortID="961607323">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_28" ID="{589D48B2-B5BA-407C-8963-E00FDBF6A198}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_28.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="197086174"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_28" ID="{589D48B2-B5BA-407C-8963-E00FDBF6A198}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_29" ID="{A3EADC93-565D-46C3-A174-265D205CFDCD}" ShortID="215453656">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_29" ID="{A45E5B9E-64A4-4C28-B93F-11BA4E99E4CE}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_29.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="56816467"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_29" ID="{A45E5B9E-64A4-4C28-B93F-11BA4E99E4CE}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_3" ID="{A267F259-FCA1-4C8E-99BA-96A0E6CC426E}" ShortID="493577640">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_3" ID="{D525677C-8EB5-430B-94C3-001AF0EE0AC0}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="158252670"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_3" ID="{D525677C-8EB5-430B-94C3-001AF0EE0AC0}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_30" ID="{25C833AC-5A39-4D5E-9EDC-2FD6753BC8D4}" ShortID="20745684">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_30" ID="{9B07EBBB-C3E0-4A6A-8AF0-1A33021C8DF9}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_30.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1024565913"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_30" ID="{9B07EBBB-C3E0-4A6A-8AF0-1A33021C8DF9}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_31" ID="{8357AF2C-51D7-4BB9-B4C3-D733CFE519EE}" ShortID="189624126">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_31" ID="{FE9CD1FB-F369-434A-AC8E-B6F4775FC41C}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_31.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="248277846"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_31" ID="{FE9CD1FB-F369-434A-AC8E-B6F4775FC41C}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_32" ID="{BDF34185-6559-492C-AF85-1BCC10F316F8}" ShortID="148447537">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_32" ID="{A2EF2864-3A2F-40FF-A232-CAB5EA3848CC}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_32.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="322333354"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_32" ID="{A2EF2864-3A2F-40FF-A232-CAB5EA3848CC}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_33" ID="{E5B9D3DD-7BB6-421C-9376-240B00626D7C}" ShortID="622724873">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_33" ID="{EDCF4C07-9C19-4B43-86DC-D0B7D975EE94}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_33.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="518063315"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_33" ID="{EDCF4C07-9C19-4B43-86DC-D0B7D975EE94}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_34" ID="{BBBC28F1-6976-4E3E-88BD-21733F8C836E}" ShortID="438079933">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_34" ID="{AD7CFB39-15D3-454F-B26C-BBC84D06DBEB}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_34.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="722415517"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_34" ID="{AD7CFB39-15D3-454F-B26C-BBC84D06DBEB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_35" ID="{4F3B45EE-0AAF-43DB-B25D-3288E074FF6E}" ShortID="103083337">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_35" ID="{DAA753A7-99D4-401E-85B2-7D6BF88CCC76}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_35.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="518688627"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_35" ID="{DAA753A7-99D4-401E-85B2-7D6BF88CCC76}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_36" ID="{D4FE5F75-9C2C-41DF-8F71-E42B3CD9C9EF}" ShortID="1044326339">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_36" ID="{35317948-2C62-4EE8-866D-0847CF289796}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_36.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1050862513"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_36" ID="{35317948-2C62-4EE8-866D-0847CF289796}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_37" ID="{5BD7095B-C0A5-42F7-A354-84B125290FC3}" ShortID="817386404">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_37" ID="{0BADF892-49B1-4997-9B46-0C6DABAFFFD6}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_37.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="859805224"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_37" ID="{0BADF892-49B1-4997-9B46-0C6DABAFFFD6}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_38" ID="{8E3286D0-27BD-4DD4-8F98-434DCC81AA59}" ShortID="308877092">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_38" ID="{C9CF06A6-7393-446E-A57F-C3343D3F6569}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_38.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="55377653"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_38" ID="{C9CF06A6-7393-446E-A57F-C3343D3F6569}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_39" ID="{6C0F946C-1E4A-4E59-B6BC-D3E9113C8B30}" ShortID="1028279624">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_39" ID="{844CA34F-4B14-4EDA-9857-B75B0878017C}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_39.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="84941153"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_39" ID="{844CA34F-4B14-4EDA-9857-B75B0878017C}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_4" ID="{9C6F3F79-7220-437C-A673-365C87D38636}" ShortID="175389749">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_4" ID="{0A8798E3-ECA9-4CEF-A242-67B5B6B1192B}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_4.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="180742893"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_4" ID="{0A8798E3-ECA9-4CEF-A242-67B5B6B1192B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_40" ID="{4A0F8AE2-A455-44B1-B385-86D40FDBB3C0}" ShortID="1036666555">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_40" ID="{565B438E-F76A-47E0-BBF0-FAA2195606AB}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_40.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="306744504"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_40" ID="{565B438E-F76A-47E0-BBF0-FAA2195606AB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_41" ID="{CEF7F03C-AD29-40E5-AA17-826DD3C08E32}" ShortID="833689250">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_41" ID="{00300DC1-BFBB-446F-A1C2-753BB90EC240}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_41.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="560171290"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_41" ID="{00300DC1-BFBB-446F-A1C2-753BB90EC240}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_42" ID="{15082386-D337-4B8E-9D04-D5635A5B7C6C}" ShortID="760923714">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_42" ID="{2F989153-F599-4D83-875F-6291A22CE1A1}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_42.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="726216927"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_42" ID="{2F989153-F599-4D83-875F-6291A22CE1A1}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_43" ID="{E6B3E6CB-FC56-4C78-8977-C278112A2378}" ShortID="560592958">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_43" ID="{E1335AEE-C65F-4458-B3E1-4052C2FAC618}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_43.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="580893454"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_43" ID="{E1335AEE-C65F-4458-B3E1-4052C2FAC618}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_44" ID="{A032ED05-02BF-4B73-9E26-677CE8AAB3C7}" ShortID="437970102">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_44" ID="{D74D8EB6-A60A-4E7B-A4B3-824D72A10D7F}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_44.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="731049250"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_44" ID="{D74D8EB6-A60A-4E7B-A4B3-824D72A10D7F}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_45" ID="{392E9616-B253-43CD-B713-9DBDEA2737F6}" ShortID="191395023">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_45" ID="{A6AC5EB1-355A-48A7-8686-064B2CB75D54}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_45.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="606656392"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_45" ID="{A6AC5EB1-355A-48A7-8686-064B2CB75D54}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_46" ID="{CECAD0D0-6330-45F0-9AEB-14F86DA70E3F}" ShortID="617657393">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_46" ID="{87F6812E-E833-4262-A513-4715091E4EF4}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_46.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="3416235"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_46" ID="{87F6812E-E833-4262-A513-4715091E4EF4}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_47" ID="{16B8A2CA-D555-484F-9EAB-CAC5422FC1D8}" ShortID="486814801">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_47" ID="{D73C2094-A7F4-413F-A803-630A628C1C9B}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_47.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="129965786"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_47" ID="{D73C2094-A7F4-413F-A803-630A628C1C9B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_48" ID="{F3C758F8-289E-4996-896C-49516715BD84}" ShortID="519419899">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_48" ID="{B72F8F25-CC88-41CE-8687-2401ACBA1AE4}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_48.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="985864527"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_48" ID="{B72F8F25-CC88-41CE-8687-2401ACBA1AE4}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_5" ID="{2EDDA979-5FDB-4855-B7B6-9BB0C0A0026B}" ShortID="267758048">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_5" ID="{72ADE89D-52D7-41C0-96B1-B92B5F13D2BD}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_5.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="700016428"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_5" ID="{72ADE89D-52D7-41C0-96B1-B92B5F13D2BD}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_6" ID="{FD4F9372-2BD1-4A26-B652-5027DF516F06}" ShortID="722475638">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_6" ID="{56B362DD-9F4C-4A39-9E33-D66719F2DFE3}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_6.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1022422577"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_6" ID="{56B362DD-9F4C-4A39-9E33-D66719F2DFE3}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_7" ID="{90606A92-7377-40D2-8603-C6D2F8C9CD21}" ShortID="733153422">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_7" ID="{D06F74EB-49E4-49FB-B6E5-0997B7B4CA45}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_7.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="469785621"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_7" ID="{D06F74EB-49E4-49FB-B6E5-0997B7B4CA45}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_8" ID="{0F96A88F-DCA0-48B6-A2EC-8B59A916B88E}" ShortID="871647606">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_8" ID="{0C3B224A-9270-4F32-AFEF-9BCA1DFD1540}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_8.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="839090620"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_8" ID="{0C3B224A-9270-4F32-AFEF-9BCA1DFD1540}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GLITCH_9" ID="{4E3D9753-1C80-462C-8BEC-1034341E5046}" ShortID="519242465">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GLITCH_9" ID="{E71C0185-D13A-433B-B97F-CC750544B49D}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GLITCH\SFX_GLITCH_9.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="182993061"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GLITCH_9" ID="{E71C0185-D13A-433B-B97F-CC750544B49D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="SFX_GRAN_TEXTURE" ID="{5CB0BCFA-5840-4004-AEEC-7CE568501AFB}" ShortID="866767134">
+							<ChildrenList>
+								<Sound Name="SFX_GRAN_TEXTURE_1" ID="{87A193D3-D57C-415F-884A-6A728C0A2DC0}" ShortID="1065028875">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_1" ID="{1986BABB-73FB-4C85-AE21-FEF64E5F8F6F}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1006186371"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_1" ID="{1986BABB-73FB-4C85-AE21-FEF64E5F8F6F}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_10" ID="{BF1E4CEE-D4E2-4C71-B0FB-10C2AC63E188}" ShortID="187886803">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_10" ID="{6AEF4F89-0019-402A-AA0F-8C74EA755928}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_10.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="383352717"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_10" ID="{6AEF4F89-0019-402A-AA0F-8C74EA755928}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_11" ID="{0DFAF5BE-2CD9-47E9-896E-77A8D09B59C9}" ShortID="338475675">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_11" ID="{723C7DAD-CA32-4457-B82B-6A4B71549A60}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_11.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="781574823"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_11" ID="{723C7DAD-CA32-4457-B82B-6A4B71549A60}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_12" ID="{6DB943D7-EC3A-4AB2-9CD6-C1688F82F79D}" ShortID="575952125">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_12" ID="{3B4AA028-1D20-40C0-B585-3814696ED75F}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_12.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="8992811"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_12" ID="{3B4AA028-1D20-40C0-B585-3814696ED75F}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_13" ID="{123ED80D-F47F-471A-9AEB-C352C43319EA}" ShortID="53825978">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_13" ID="{E16C3431-9E5D-4437-97C5-93BFD56F50AF}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_13.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="577220699"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_13" ID="{E16C3431-9E5D-4437-97C5-93BFD56F50AF}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_14" ID="{714031B2-6342-4336-A045-6F3E76E80EBB}" ShortID="672917151">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_14" ID="{16489262-0594-402D-94F7-85756354CA4F}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_14.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="899994631"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_14" ID="{16489262-0594-402D-94F7-85756354CA4F}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_15" ID="{2520E6E9-AE0F-4FD5-BE6F-EE00BA0A4640}" ShortID="913361323">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_15" ID="{11599B0E-E374-4F5B-A554-31C444A6EEA6}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_15.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="963487990"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_15" ID="{11599B0E-E374-4F5B-A554-31C444A6EEA6}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_3" ID="{0B0F207A-429C-4B05-85C4-C0258B27ED61}" ShortID="967229720">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_3" ID="{86AE896C-0035-475E-B680-2B0F110D6C8D}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="925055670"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_3" ID="{86AE896C-0035-475E-B680-2B0F110D6C8D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_4" ID="{EBBF9FA3-B271-45A3-B9A5-1EE8824A87DD}" ShortID="996196594">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_4" ID="{54883DD1-51BA-4034-8C09-ED427F3C62E6}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_4.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="395861301"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_4" ID="{54883DD1-51BA-4034-8C09-ED427F3C62E6}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_5" ID="{02F30EEA-B832-4D6E-A7DD-13694CFB2E30}" ShortID="841426998">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_5" ID="{D79A9FD7-F51C-4290-AFFC-BBC219D12744}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_5.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1001684795"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_5" ID="{D79A9FD7-F51C-4290-AFFC-BBC219D12744}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_6" ID="{02BC8F51-B657-4DE7-8875-7B8A6D418AD1}" ShortID="84947870">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_6" ID="{2AD08FC8-4376-4181-9850-A6BBCB0F7E90}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_6.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="471977600"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_6" ID="{2AD08FC8-4376-4181-9850-A6BBCB0F7E90}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_7" ID="{B8CF5CF7-26FA-442D-938B-38B4539C08EE}" ShortID="11091290">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_7" ID="{B1C998FE-0D07-4D3C-A2C1-197C24CFE226}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_7.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="627137686"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_7" ID="{B1C998FE-0D07-4D3C-A2C1-197C24CFE226}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_8" ID="{7D72C0D7-6E1D-44D5-85A8-5C7B2A1FE140}" ShortID="865963918">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_8" ID="{E4034B63-83BB-4FE8-B99F-D5C66835613F}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_8.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="465298898"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_8" ID="{E4034B63-83BB-4FE8-B99F-D5C66835613F}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_GRAN_TEXTURE_9" ID="{98448A99-F83D-4E01-87B2-468E3C4A322A}" ShortID="254557824">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_GRAN_TEXTURE_9" ID="{FA7B960D-37E2-4D70-BBE4-10F2DB2D89CB}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_GRAN_TEXTURE\SFX_GRAN_TEXTURE_9.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="421733229"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_GRAN_TEXTURE_9" ID="{FA7B960D-37E2-4D70-BBE4-10F2DB2D89CB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="SFX_IMPACT" ID="{26018CA4-CA74-4A05-BE31-D20C11BAC408}" ShortID="720218429">
+							<ChildrenList>
+								<Sound Name="SFX_IMPACT_1" ID="{2F3A7958-0F23-4DC2-90CC-CD2E354BDAFF}" ShortID="396994221">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_IMPACT_1" ID="{211A6631-C5E3-43BF-A0F2-F693648E3166}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_IMPACT\SFX_IMPACT_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="748070074"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_IMPACT_1" ID="{211A6631-C5E3-43BF-A0F2-F693648E3166}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="SFX_INDUSTRIAL_NOISES" ID="{77A09D87-A41B-42D9-AEE4-57DC77D88B7A}" ShortID="567733474">
+							<ChildrenList>
+								<Sound Name="SFX_INDUSTRIAL_NOISE_1" ID="{0F022F9A-4D60-478F-828A-30EBD7DF7765}" ShortID="115711260">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_INDUSTRIAL_NOISE_1" ID="{77F80C7C-A51D-464F-A32D-30E9E48572E6}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_INDUSTRIAL_NOISES\SFX_INDUSTRIAL_NOISE_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="714073745"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_INDUSTRIAL_NOISE_1" ID="{77F80C7C-A51D-464F-A32D-30E9E48572E6}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_INDUSTRIAL_NOISE_2" ID="{D7A2E9E8-4C30-4F8F-A08E-723C2AF529D6}" ShortID="860844450">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_INDUSTRIAL_NOISE_2" ID="{3628523E-2347-44B0-A720-2455A268A310}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_INDUSTRIAL_NOISES\SFX_INDUSTRIAL_NOISE_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="470145537"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_INDUSTRIAL_NOISE_2" ID="{3628523E-2347-44B0-A720-2455A268A310}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="SFX_NOISY_IMPULSES" ID="{A3C76DAA-B23F-4218-9008-F890781AAF47}" ShortID="810848139">
+							<ChildrenList>
+								<Sound Name="SFX_NOISY_IMPULSES_1" ID="{33C267E6-1A54-4030-9A11-BD0F073CBEA3}" ShortID="972697722">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_NOISY_IMPULSES_1" ID="{57545EE9-67D4-46C5-A4CF-D69B68406C9A}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_NOISY_IMPULSES\SFX_NOISY_IMPULSES_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="997643009"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_NOISY_IMPULSES_1" ID="{57545EE9-67D4-46C5-A4CF-D69B68406C9A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_NOISY_IMPULSES_2" ID="{6F9F2D9E-7A61-4C3A-BCE4-61220401F779}" ShortID="115787592">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_NOISY_IMPULSES_2" ID="{F3EDFA91-41E6-4E4F-B050-2F10A72E7B06}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_NOISY_IMPULSES\SFX_NOISY_IMPULSES_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="226531292"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_NOISY_IMPULSES_2" ID="{F3EDFA91-41E6-4E4F-B050-2F10A72E7B06}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_NOISY_IMPULSES_3" ID="{2D795A51-2CBB-41E2-8F5C-5E5A01E1EC11}" ShortID="381419073">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_NOISY_IMPULSES_3" ID="{5F7162C1-3BA2-43CA-94BD-CC15D50078FF}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_NOISY_IMPULSES\SFX_NOISY_IMPULSES_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="262352866"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_NOISY_IMPULSES_3" ID="{5F7162C1-3BA2-43CA-94BD-CC15D50078FF}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_NOISY_IMPULSES_4" ID="{9AC2D587-9C39-4851-A105-7DAE82F8CD2C}" ShortID="848708182">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_NOISY_IMPULSES_4" ID="{56DCCEA2-4974-466D-B37D-E5425BBF4650}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_NOISY_IMPULSES\SFX_NOISY_IMPULSES_4.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="870496477"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_NOISY_IMPULSES_4" ID="{56DCCEA2-4974-466D-B37D-E5425BBF4650}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_NOISY_IMPULSES_5" ID="{B7C3150D-7FAB-49D7-8B15-09A5BAFB34B4}" ShortID="959974738">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_NOISY_IMPULSES_5" ID="{2F4B4161-92BF-4C73-8521-CA1819600042}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_NOISY_IMPULSES\SFX_NOISY_IMPULSES_5.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="344005865"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_NOISY_IMPULSES_5" ID="{2F4B4161-92BF-4C73-8521-CA1819600042}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_NOISY_IMPULSES_6" ID="{F321ADDB-7176-4BAE-90DF-87D6CEB3F54F}" ShortID="637536527">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_NOISY_IMPULSES_6" ID="{71FFC693-4B8B-4BD5-9655-46F02284520A}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_NOISY_IMPULSES\SFX_NOISY_IMPULSES_6.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="320367126"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_NOISY_IMPULSES_6" ID="{71FFC693-4B8B-4BD5-9655-46F02284520A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_NOISY_IMPULSES_7" ID="{9A1FE2E1-212E-406F-A877-FEF470565DDA}" ShortID="36074497">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_NOISY_IMPULSES_7" ID="{3AA503FF-7F43-4619-9562-0310702D4D56}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_NOISY_IMPULSES\SFX_NOISY_IMPULSES_7.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="758401508"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_NOISY_IMPULSES_7" ID="{3AA503FF-7F43-4619-9562-0310702D4D56}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="SFX_SWOOSH" ID="{78C1D23C-4B92-44FF-9796-0E87900AA424}" ShortID="309520150">
+							<ChildrenList>
+								<Sound Name="SFX_SWOSH_1" ID="{76F1124F-0030-429F-B60B-3A611AD32923}" ShortID="631678252">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_SWOSH_1" ID="{EAE0CE90-0199-4A22-B7BC-5526FD7A7C3E}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_SWOOSH\SFX_SWOSH_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="794327458"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_SWOSH_1" ID="{EAE0CE90-0199-4A22-B7BC-5526FD7A7C3E}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_SWOSH_2" ID="{B9764D91-EF39-4FA9-9223-A1B4D06BB03E}" ShortID="12745539">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_SWOSH_2" ID="{3645A04A-DD68-4EF9-83C8-8466B9157E4F}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_SWOOSH\SFX_SWOSH_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="974851482"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_SWOSH_2" ID="{3645A04A-DD68-4EF9-83C8-8466B9157E4F}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SFX_SWOSH_3" ID="{812264DD-D1D3-46F3-B343-E435267C7F31}" ShortID="929159430">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5A6AC142-D446-4F7D-A40F-220B38B3B336}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1C13828B-6501-49B2-A6B4-AC843A3DA03D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SFX_SWOSH_3" ID="{64BD76E7-DDC1-458D-8B64-8270639C5AB5}">
+											<Language>SFX</Language>
+											<AudioFile>Audio\SFX_SWOOSH\SFX_SWOSH_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="69643231"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="SFX_SWOSH_3" ID="{64BD76E7-DDC1-458D-8B64-8270639C5AB5}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</Folder>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
